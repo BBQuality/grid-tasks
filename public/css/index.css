@@ -312,7 +312,7 @@ grid-template: max-content;
   justify-content: stretch;
 }
 .task45 .item3 {
-  grid-area: 1 / 1 / 2 / 3; 
+  grid-area: 1 / 1 / 3 / 3; 
   align-self: end;
 }
 
