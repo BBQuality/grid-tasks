@@ -162,6 +162,8 @@ p {
 .task50 {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
+  grid-auto-flow: column;
+  
 }
 .task48 .item3,
 .task49 .item3,
